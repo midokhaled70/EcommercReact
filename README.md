@@ -43,13 +43,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/midokhaled70/EcommercReact.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd repository-name
+    cd EcommercReact
     ```
 
 3. Install the dependencies:
