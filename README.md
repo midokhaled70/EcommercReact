@@ -1,6 +1,4 @@
-Here's a refined and more professional version of the project description:
 
----
 
 ## Project Overview
 
@@ -93,6 +91,3 @@ We welcome contributions to improve and enhance the platform! To contribute, ple
 
 5. **Open a Pull Request** with a detailed description of your changes.
 
----
-
-Feel free to adapt the tone or make any necessary adjustments! This structure should offer clarity and professionalism while showcasing your project’s functionalities and goals.
