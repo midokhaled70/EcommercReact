@@ -33,6 +33,14 @@ With categories such as "Shop," "Men," "Women," and "Kids," users can easily bro
 - **Design**: Custom CSS for a responsive and modern e-commerce look, ensuring a polished user experience on all devices.
 
 ---
+## Screenshots
+---![6](https://github.com/user-attachments/assets/ff764761-c4ba-4485-9b96-1648144ccd9b)
+![5](https://github.com/user-attachments/assets/4aab61db-2e6d-4798-ab40-fd4981c889b5)
+![4](https://github.com/user-attachments/assets/0f514d5c-d955-4de7-a7a3-0f78ef28b211)
+![3](https://github.com/user-attachments/assets/bbd25274-4332-45d6-9c9c-bb14c2f37a51)
+![2](https://github.com/user-attachments/assets/856ba7bd-0ea8-40a4-8850-70067457c8ed)
+![1](https://github.com/user-attachments/assets/395e177c-884f-4cd6-9851-ffd61808f713)
+![7](https://github.com/user-attachments/assets/3b5cfd82-0cfc-4ac0-a6f7-cbd63ab66feb)
 
 ## Installation
 
