@@ -93,9 +93,12 @@ We welcome contributions to improve and enhance the platform! To contribute, ple
 
 4. **Push the branch** to your forked repository:
 
+5. ## **Author**
+   MIdo KHaled
+
     ```bash
     git push origin feature-name
     ```
 
-5. **Open a Pull Request** with a detailed description of your changes.
+7. **Open a Pull Request** with a detailed description of your changes.
 
