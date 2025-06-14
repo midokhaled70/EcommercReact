@@ -1,6 +1,6 @@
 
 
-## Project Overview
+##  Overview
 
 Welcome to **E-Commerce Platform**, a modern, dynamic, and fully functional online shopping solution built with React. This project is designed to offer a seamless, intuitive, and visually stunning shopping experience. The platform is structured around a user-friendly interface, smooth navigation, and a responsive layout that adapts perfectly to different devices.
 
