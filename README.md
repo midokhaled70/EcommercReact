@@ -94,7 +94,7 @@ We welcome contributions to improve and enhance the platform! To contribute, ple
 4. **Push the branch** to your forked repository:
 
 5. ## **Author**
-   **Mi Khaled**
+   **Mid Khaled**
 
     ```bash
     git push origin feature-name
